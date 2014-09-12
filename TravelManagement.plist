@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
     <key>items</key>
-	<array>
+    <array>
 		<dict>
 			<key>assets</key>
 			<array>
@@ -22,7 +22,7 @@
 				<string>1.0.1</string>
 				<key>kind</key>
 				<string>software</string>
-                                <key>subtitle</key>
+				<key>subtitle</key>
 				<string>微财务</string>
 				<key>title</key>
 				<string>微财务</string>
