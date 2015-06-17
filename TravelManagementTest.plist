@@ -13,6 +13,7 @@
 					<key>url</key>
 					<string>http://test.wecaiwu.com/static/downloads/TravelManager_1.3.0.ipa</string>
 				</dict>
+			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
@@ -29,5 +30,4 @@
 		</dict>
 	</array>
 </dict>
-
 </plist>
