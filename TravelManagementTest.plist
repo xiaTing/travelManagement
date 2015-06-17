@@ -11,15 +11,14 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://123.103.9.111/static/downloads/TravelManager_1.2.0.ipa</string>
+					<string>http://test.wecaiwu.com/static/downloads/TravelManager_1.2.5.ipa</string>
 				</dict>
-			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
 				<string>com.RedTangerine.TravelManagement</string>
 				<key>bundle-version</key>
-				<string>1.2.0</string>
+				<string>1.2.5</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>subtitle</key>
